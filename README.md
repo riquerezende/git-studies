@@ -7,11 +7,11 @@
 #### Criando um repositório local 
 Para criar um repositório git no computador, é necessário criar uma pasta para inicializar o git e colocar os nossos arquivos de código dentro dela. O código a seguir cria uma pasta com o nome projeto-git no computador.
 
-`mkdir projeto-git`
+`mkdir git-studies`
 
 Após criar a pasta, devemos entrar nela usando o comando:
 
-`cd projeto-git`
+`cd git-studies`
 
 Após entrar na pasta, inicializamos o repositório usando o comando:
 
