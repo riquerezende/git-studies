@@ -1,10 +1,10 @@
-# Estudando git
+# Estudando Git
 ## Aprendendo Git com linha de comando
 ## Ferramentas utilizadas
 - [Git](https://git-scm.com/ "Git")
 - [Cmder](https://cmder.net/ "Cmder")
 
-## Comandos usados
+## Lista de comandos
 
 `mkdir <nome-do-projeto>`
 
